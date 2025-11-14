@@ -10,7 +10,7 @@
   <img src="https://media1.tenor.com/m/5q0fppfYcLAAAAAC/push-loop-infinite.gif" width="300"/>
 </p>
 
-Sou desenvolvedor back-end, estudando Análise e Desenvolvimento de Sistemas na UNIP (2025–2027) e construindo uma base sólida em desenvolvimento com Java e suas aplicações.
+Sou desenvolvedor backend, estudando Análise e Desenvolvimento de Sistemas na UNIP (2025–2027) e construindo uma base sólida em desenvolvimento com Java e suas aplicações.
 
 Curto criar soluções simples, funcionais e bem estruturadas. Aprendo rápido, me adapto com facilidade e encaro desafios com resiliência — **não sei tudo, mas sempre descubro como chegar lá**.
 
