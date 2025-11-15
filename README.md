@@ -4,7 +4,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Sejam%20Bem-Vindos!&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
-<h1 align="center">Prazer, sou Murilo Lincon!</h1>
+<h1 align="center">Olá Mundo, sou Murilo Lincon!</h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/5q0fppfYcLAAAAAC/push-loop-infinite.gif" width="300"/>
@@ -28,9 +28,7 @@
 
 <br>
 
-Sou desenvolvedor backend, estudando Análise e Desenvolvimento de Sistemas na UNIP (2025–2027) e construindo uma base sólida em desenvolvimento com Java e suas aplicações.
-
-Curto criar soluções simples, funcionais e bem estruturadas. Aprendo rápido, me adapto com facilidade e encaro desafios com resiliência — **não sei tudo, mas sempre descubro como chegar lá**.
+Sou desenvolvedor backend, estudando Análise e Desenvolvimento de Sistemas na UNIP (2025–2027) e construindo uma base sólida em desenvolvimento com Java e suas aplicações. Curto criar soluções simples, funcionais e bem estruturadas. Aprendo rápido, me adapto com facilidade e gosto de encarar desafios que me fazem crescer — **não sei tudo, mas sempre descubro como chegar lá**.
 
 <br>
 
